@@ -1,0 +1,4 @@
+tmux
+git
+build-essential
+python
